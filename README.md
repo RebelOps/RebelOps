@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RebelOps
+- 👀 I’m interested in external devices. (Devices used to do things such as boost preformance, grab wifi passwords, and just have a bit of fun by randomizing inputs.)
+- 🌱 I’m currently learning how to program.
+- 💞️ I’m looking to collaborate on devices listed above.
+- 📫 Discord: RebelBebble #9801
